@@ -1,1 +1,2 @@
 # Etch-a-Sketch
+A piexlated sketch board with JS-generated flexbox, user can sketch anything on that. Also, you can customize the number of gird per side. Support colorful drawing and darkening effect.
